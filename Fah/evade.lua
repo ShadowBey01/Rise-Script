@@ -1,7 +1,109 @@
--- Hey Kurd Man! You'll probably try to crack this script.. but you won't be able to :)
+-- hey kurd man i know youre here to steal script but you cant :)
 
-  _bsdata0 = {{1097386803,1753208989,115839},3797355879,785507,"¡   ","2A1EC-E6F5FEHCE212H2F!EDCDAD2060440HEH0C6!B-DFFD4H!06D!3215A56C1B4H24-2C162-3H6EA-B5F0CEF3EBH23!-A6-!6D1!302CH154CB06ABH","855f3de9164149f02ebc3f67abb610397a9df4e3855df87199763a1faef77e2e7dde86197bfa5029386743af996411a64768bef99b0333ab4abc8a6f17864c157f294eeef542069ca62370be3250a5211fe49d231ef8600a9a10f650caaf18a1a8f39087edd76a2ed4bc1c77bc60e84575aca1c0fb4cd05799507385f59beb6b6d9f804cd371355170c1a08df22a541e6822b718936be5a0c9d81cff7ada5e4b7580770d80e897fb1fdbabe9095816bacd798baf4eb3de63046065df5d1bdf766e688cc98002db4309"}
-protect = "pcall(function() delfile('e35dfe3721a4a57029cc101d8ec43cbe-cache.lua') end) local a pcall(function()a=readfile('static_content_130525/initv4.lua')end) if a and #a>2000 then a=loadstring(a) end; if a then return a() else pcall(makefolder, 'static_content_130525') a=game:HttpGet('https://cdn.luarmor.net/v4_init_may312.lua') writefile('static_content_130525/initv4.lua', a) pcall(delfile, 'static_content_130525/init.lua'); pcall(delfile, 'static_content_130525/initv2.lua'); pcall(delfile, 'static_content_130525/initv3.lua'); loadstring(a)() end"
+_bsdata0 = {{1097386803,1753208989,115839},3797355879,785507,"¡   ","2A1EC-E6F5FEHCE212H2F!EDCDAD2060440HEH0C6!B-DFFD4H!06D!3215A56C1B4H24-2C162-3H6EA-B5F0CEF3EBH23!-A6-!6D1!302CH154CB06ABH","855f3de9164149f02ebc3f67abb610397a9df4e3855df87199763a1faef77e2e7dde86197bfa5029386743af996411a64768bef99b0333ab4abc8a6f17864c157f294eeef542069ca62370be3250a5211fe49d231ef8600a9a10f650caaf18a1a8f39087edd76a2ed4bc1c77bc60e84575aca1c0fb4cd05799507385f59beb6b6d9f804cd371355170c1a08df22a541e6822b718936be5a0c9d81cff7ada5e4b7580770d80e897fb1fdbabe9095816bacd798baf4eb3de63046065df5d1bdf766e688cc98002db4309"}
+protect = "pcall(function() delfile('risearmor-cache.lua') end) local hzshawde pcall(function() hzshawde=readfile('risesan/init.lua') end) if hzshawde and #hzshawde>2000 then hzshawde=loadstring(hzshawde) end; if hzshawde then return hzshawde() else pcall(makefolder,'risesan') hzshawde=game:HttpGet('https://risearmor.net/init.lua') writefile('risesan/init.lua',hzshawde) pcall(delfile,'righthit/init_old.lua'); pcall(delfile,'righthit/init_v2.lua'); pcall(delfile,'righthit/backup.lua'); loadstring(hzshawde)() end"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
